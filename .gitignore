@@ -1,0 +1,10 @@
+/.vscode
+/data.db
+/keys.py
+/req.txt
+/tmp.html
+/tmp.json
+/tmp1.py
+/tmp2.json
+/venv
+/__pycache__
